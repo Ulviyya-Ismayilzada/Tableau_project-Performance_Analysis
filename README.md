@@ -1,0 +1,1 @@
+As a data analyst in Telecom Company we can receive several ad-hoc requests from marketing and CRM department about the performance of tariffs for different KPIs for different time periods. So, dynamic dashboards can be good solution for conveying all required insights.
